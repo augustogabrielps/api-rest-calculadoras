@@ -1,3 +1,3 @@
 #Creating README
 
-This project intented to be a opportunity to learn how to build and API RESTful. 
+This project is intended to be an opportunity to learn how to build an API RESTful. 
